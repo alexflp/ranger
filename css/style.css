@@ -884,8 +884,10 @@ body {
 #footer {
   padding-top: 50px;
   padding-bottom: 0px;
-  color: #7f7f7f;
-  height:600px;
+  color: white;
+  height: auto;
+  background-color: #E75927;
+ 
 }
 
 

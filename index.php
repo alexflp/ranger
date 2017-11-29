@@ -9,23 +9,8 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>AlphaPay</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
-	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
-	<meta name="author" content="FREEHTML5.CO" />
-
-  <!-- 
-	//////////////////////////////////////////////////////
-
-	FREE HTML5 TEMPLATE 
-	DESIGNED & DEVELOPED by FREEHTML5.CO
-		
-	Website: 		http://freehtml5.co/
-	Email: 			info@freehtml5.co
-	Twitter: 		http://twitter.com/fh5co
-	Facebook: 		https://www.facebook.com/fh5co
-
-	//////////////////////////////////////////////////////
-	 -->
+	
+  
 
   <!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
@@ -231,7 +216,7 @@
 						<img src="images/payment.png" alt="Free HTML5 Bootstrap Template" class="img-responsive img-feature-1">	
 					</div>
 					<div class="col-md-7 col-md-pull-4">
-						<h2>Payment Methods</h2>
+						<h2>AlphaPay Gateway Payment API</h2>
 						<p>AlphaPay provides different payment methods for different environment.</p>
 						<p><a href="/phpdemo/common" class="btn btn-primary">Learn more</a></p>	
 					</div>
